@@ -10,7 +10,7 @@ sudo apt install git-all
 sudo apt-get remove docker docker-engine docker.io containerd runc 
 
 
-#Python 2.3.1:
+#Python 2.3.1 update
 
  
 sudo apt-get update 
