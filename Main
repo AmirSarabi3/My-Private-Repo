@@ -30,7 +30,10 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
 sudo docker run hello-world 
  
- 
+
+#Gir "https://github.com/ObolNetwork/charon-distributed-validator-node.git"
+
+
 git clone https://github.com/ObolNetwork/charon-distributed-validator-node.git 
   
 
